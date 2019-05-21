@@ -7,3 +7,7 @@ This repository contains the code written using Keras using Tensorflow as backen
 - utils.py is generating batches for training images
 - rospub.py is for sending steering angle to the Robot over same network in which PC as Master and Robot as Slave
 - data folder contains the images for training and shortly I will upload code for saving images with steering angles i.e.., Dataset preparation
+
+## Results after training with dataset of 1000 images
+
+![Alt text](./2.png?raw=true "Training Loss graph")
